@@ -1,10 +1,10 @@
 # Devid React Native Template
 
-Template Expo SDK 56 prêt à l'emploi pour démarrer rapidement des projets React Native cohérents.
+Template Expo SDK 54 prêt à l'emploi pour démarrer rapidement des projets React Native cohérents.
 
 ## Stack
 
-- **Expo 56** + **Expo Router** (navigation file-based)
+- **Expo 54** + **Expo Router** (navigation file-based)
 - **NativeWind v4** (Tailwind CSS)
 - **Zustand** (state local persisté)
 - **TanStack Query** (cache API)
@@ -92,4 +92,4 @@ EXPO_PUBLIC_API_URL=https://jsonplaceholder.typicode.com
 
 ## Documentation Expo
 
-Consultez la [documentation Expo v56](https://docs.expo.dev/versions/v56.0.0/) avant d'ajouter des packages natifs.
+Consultez la [documentation Expo v54](https://docs.expo.dev/versions/v54.0.0/) avant d'ajouter des packages natifs.

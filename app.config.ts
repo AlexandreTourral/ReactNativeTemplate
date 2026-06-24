@@ -21,7 +21,6 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       monochromeImage: './assets/android-icon-monochrome.png',
     },
     package: 'com.devid.reactnativetemplate',
-    predictiveBackGestureEnabled: false,
   },
   web: {
     bundler: 'metro',
